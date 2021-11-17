@@ -8,6 +8,6 @@ After using a 0day exploit we have in keyauth to bypass the login it then downlo
 
 This chair was claiming to be uncrackable which obviously was not and they are using kdmapper, modmap, and public drivers for a P2C smh.
 
-The repo contains their drivers (might be deleted), their dll, and their modmap lol.
+The repo contains their dll so have fun till it gets outdated with tHiS EpIc P2C
 
 
